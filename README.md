@@ -21,3 +21,37 @@ There might be some error while you try the website like the you ented may do no
 **Ph range**:- Neutral
 **Season**:-Rabi
 **Pests**:-none
+
+
+
+**SOIL_TYPE**:- loam
+**Moisture type**:-Medium
+**Ph range**:- Neutral
+**Season**:-Rabi
+**Pests**:-none
+
+
+
+
+
+**SOIL_TYPE**:- loam
+**Moisture type**:-Medium
+**Ph range**:- Neutral
+**Season**:-Kharif
+**Pests**:-Whitefly
+
+
+
+**SOIL_TYPE**:- clay
+**Moisture type**:-high
+**Ph range**:- Neutral
+**Season**:-year round
+**Pests**:-none
+
+
+
+**SOIL_TYPE**:- alluvial
+**Moisture type**:-low
+**Ph range**:- Neutral
+**Season**:-Rabi
+**Pests**:-none
