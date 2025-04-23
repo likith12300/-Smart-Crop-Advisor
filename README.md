@@ -4,11 +4,17 @@ SmartCrop Advisory 🌱 is a multilingual, offline-first crop advisory tool that
 
 [Crop Advisory system](https://llamacoder.together.ai/share/v2/zXxOehzYQLMBcbZR)
 There might be some error while you try the website like the you ented may do not give crops so for testing use this data
+
+
+
 **SOIL_TYPE**:- Sandy
 **Moisture type**:-Low
 **Ph range**:- Slighty acidic
 **Season**:-Kharif
 **Pests**:-none
+
+
+
 
 **SOIL_TYPE**:- black
 **Moisture type**:-Medium
