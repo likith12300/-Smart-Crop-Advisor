@@ -6,6 +6,11 @@ SmartCrop Advisory 🌱 is a multilingual, offline-first crop advisory tool that
 There might be some error while you try the website like the you ented may do not give crops so for testing use this data
 
 
+[video demonstation](https://drive.google.com/file/d/1MIEEloCbHALRb2f7FPM_X4-L1H86AAOO/view?usp=sharing)
+
+
+
+
 
 **SOIL_TYPE**:- Sandy
 **Moisture type**:-Low
